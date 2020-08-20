@@ -1,0 +1,7 @@
+apache-airflow
+timedelta
+BeautifulSoup4
+requests
+elasticsearch
+spacy
+requests
